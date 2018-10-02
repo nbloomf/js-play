@@ -1,0 +1,7 @@
+1. undefined is the absense of something
+   null is the presence of nothing
+
+2. The built in types, Number, Bool, Array, Object, Null, Undefined, String,
+   are naturally monoids under some operation - addition, logical or, concat,
+   "merge", or the trivial operation. And the "falsey" values are precisely
+   the identities - zero, false, empty array/string, empty object.
